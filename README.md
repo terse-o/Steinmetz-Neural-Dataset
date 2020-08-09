@@ -1,5 +1,5 @@
 # Steinmetz-Neural-Dataset
-Encoding impact of attention on neuronal modulation and behavior
+**Encoding impact of attention on neuronal modulation and behavior**
 
 This project was my introduction to neuroscience through the Neuromatch Academy summer school. In this project we worked with the Steinmetz dataset. It was an experiment conducted with 10 different mices. A total of 39 sessions. Each session containing varying number of trials for each mice.
 
