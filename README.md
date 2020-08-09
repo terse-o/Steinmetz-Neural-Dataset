@@ -47,7 +47,7 @@ Later a line graph was plotted for each mice for individual neuron activity thro
 <img src="https://github.com/terse-o/Steinmetz-Neural-Dataset/blob/master/Passive.JPG" width="275" height="200" />
 </p>
 <p align="center">
-    <em>Fig 4. Line Graph for Active & Passive Trials</em>
+    <em>Fig 4. Line Graph for Neuron Activity through Epochs - Active & Passive Trials</em>
 </p>
 
 A scatter plot was created for mean firing rate v/s variance and a regression line was fit through it for both active and passive trials.
@@ -57,7 +57,7 @@ A scatter plot was created for mean firing rate v/s variance and a regression li
 <img src="https://github.com/terse-o/Steinmetz-Neural-Dataset/blob/master/Mean%20vs%20Variance%20-%20Passive.JPG" width="275" height="180" />
 </p>
 <p align="center">
-    <em>Fig 5. Scatter Plot for Active & Passive Trials</em>
+    <em>Fig 5. Scatter Plot for Mean Firing Rate v/s Variance - Active & Passive Trials</em>
 </p>
 
 **Observation:**
